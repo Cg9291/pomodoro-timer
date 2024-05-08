@@ -2,7 +2,7 @@
 
 This is a simple pomodoro timer,that allows user to set sessions and breaks of up to 60 minutes.
 
-Link to the project [Pomodor Timer]{https://cg-pomodoro-timer.netlify.app}
+Link to the project [Pomodoro Timer](https://cg-pomodoro-timer.netlify.app)
 
 ## How it's made
 
